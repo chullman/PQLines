@@ -1,0 +1,68 @@
+﻿{
+   "Description":"Live Line Min Appr. Dist.",
+   "Categories":[
+      {
+         "ID":"Barehand",
+         "MADPhaseVoltages":[
+            {
+               "ID":"110kV",
+               "Data":"940mm approach distance"
+            },
+            {
+               "ID":"132kV",
+               "Data":"1070mm approach distance"
+            },
+            {
+               "ID":"275kV",
+               "Data":"1900mm approach distance"
+            },
+            {
+               "ID":"330kV",
+               "Data":"2030mm approach distance"
+            }
+         ]
+      },
+      {
+         "ID":"Hot Stick",
+         "MADPhaseVoltages":[
+            {
+               "ID":"110kV",
+               "Data":"1200mm approach distance"
+            },
+            {
+               "ID":"132kV",
+               "Data":"1200mm approach distance"
+            },
+            {
+               "ID":"275kV",
+               "Data":"2000mm approach distance"
+            },
+            {
+               "ID":"330kV",
+               "Data":"2200mm approach distance"
+            }
+         ]
+      },
+      {
+         "ID":"Phase to Phase",
+         "MADPhaseVoltages":[
+            {
+               "ID":"110kV",
+               "Data":"1290mm approach distance"
+            },
+            {
+               "ID":"132kV",
+               "Data":"1500mm approach distance"
+            },
+            {
+               "ID":"275kV",
+               "Data":"2750mm approach distance"
+            },
+            {
+               "ID":"330kV",
+               "Data":"3130mm approach distance"
+            }
+         ]
+      }
+   ]
+}

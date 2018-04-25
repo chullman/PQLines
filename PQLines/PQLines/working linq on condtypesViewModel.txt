@@ -1,0 +1,4 @@
+var list = (from a in _deserializedContents.Content
+                        where string.Compare(a.ID, "Conductor Info", StringComparison.CurrentCultureIgnoreCase) == 0
+                    from b in a.CondTypes.CondType
+                 select b).ToList();

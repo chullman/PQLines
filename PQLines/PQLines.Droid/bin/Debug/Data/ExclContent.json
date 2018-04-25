@@ -1,0 +1,37 @@
+﻿{
+   "Description":"Exclusion Zones",
+   "PhaseVoltages":[
+      {
+         "ID":"Above 1kV",
+         "Data":"700mm exclusion zone"
+      },
+      {
+         "ID":"33kV",
+         "Data":"700mm exclusion zone"
+      },
+      {
+         "ID":"66V",
+         "Data":"1000mm exclusion zone"
+      },
+      {
+         "ID":"110kV",
+         "Data":"1400mm exclusion zone"
+      },
+      {
+         "ID":"132kV",
+         "Data":"1400mm exclusion zone"
+      },
+      {
+         "ID":"275V",
+         "Data":"2300mm exclusion zone"
+      },
+      {
+         "ID":"330kV",
+         "Data":"3000mm exclusion zone"
+      },
+      {
+         "ID":"Above 330kV",
+         "Data":"4000mm exclusion zone"
+      }
+   ]
+}

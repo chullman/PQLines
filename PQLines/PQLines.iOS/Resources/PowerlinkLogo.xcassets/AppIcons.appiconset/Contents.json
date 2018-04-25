@@ -1,0 +1,122 @@
+{
+  "properties": {
+    "pre-rendered": false
+  },
+  "images": [
+    {
+      "idiom": "iphone",
+      "scale": "2x",
+      "filename": "58x58.png",
+      "size": "29x29"
+    },
+    {
+      "idiom": "iphone",
+      "scale": "3x",
+      "filename": "87x87.png",
+      "size": "29x29"
+    },
+    {
+      "idiom": "iphone",
+      "scale": "2x",
+      "filename": "80x80.png",
+      "size": "40x40"
+    },
+    {
+      "idiom": "iphone",
+      "scale": "3x",
+      "filename": "120x120.png",
+      "size": "40x40"
+    },
+    {
+      "idiom": "iphone",
+      "scale": "2x",
+      "filename": "120x120.png",
+      "size": "60x60"
+    },
+    {
+      "idiom": "iphone",
+      "scale": "3x",
+      "filename": "180x180.png",
+      "size": "60x60"
+    },
+    {
+      "idiom": "ipad",
+      "scale": "1x",
+      "filename": "29x29.png",
+      "size": "29x29"
+    },
+    {
+      "idiom": "ipad",
+      "scale": "2x",
+      "filename": "58x58.png",
+      "size": "29x29"
+    },
+    {
+      "idiom": "ipad",
+      "scale": "1x",
+      "filename": "40x40.png",
+      "size": "40x40"
+    },
+    {
+      "idiom": "ipad",
+      "scale": "2x",
+      "filename": "80x80.png",
+      "size": "40x40"
+    },
+    {
+      "idiom": "ipad",
+      "scale": "1x",
+      "filename": "76x76.png",
+      "size": "76x76"
+    },
+    {
+      "idiom": "ipad",
+      "scale": "2x",
+      "filename": "152x152.png",
+      "size": "76x76"
+    },
+    {
+      "idiom": "iphone",
+      "scale": "1x",
+      "filename": "29x29.png",
+      "size": "29x29"
+    },
+    {
+      "idiom": "iphone",
+      "scale": "1x",
+      "filename": "57x57.png",
+      "size": "57x57"
+    },
+    {
+      "idiom": "iphone",
+      "scale": "2x",
+      "size": "57x57"
+    },
+    {
+      "idiom": "ipad",
+      "scale": "1x",
+      "filename": "50x50.png",
+      "size": "50x50"
+    },
+    {
+      "idiom": "ipad",
+      "scale": "2x",
+      "size": "50x50"
+    },
+    {
+      "idiom": "ipad",
+      "scale": "1x",
+      "filename": "72x72.png",
+      "size": "72x72"
+    },
+    {
+      "idiom": "ipad",
+      "scale": "2x",
+      "size": "72x72"
+    }
+  ],
+  "info": {
+    "version": 1,
+    "author": ""
+  }
+}

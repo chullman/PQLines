@@ -1,0 +1,25 @@
+﻿{
+   "Description":"Live Line Working Ld Lmts.",
+   "Items":[
+      {
+         "ID":"Crossarm Adaptor",
+         "Data":"45kN working load limit"
+      },
+      {
+         "ID":"Single Strain Stick",
+         "Data":"35kN working load limit"
+      },
+      {
+         "ID":"Suspension Insulator Replacement Rig",
+         "Data":"45kN working load limit"
+      },
+      {
+         "ID":"Tension Insulator Replacement Rig",
+         "Data":"68kN working load limit"
+      },
+      {
+         "ID":"Wire Tongs",
+         "Data":"6.8kN compression load limit 11kN tension load limit"
+      }
+   ]
+}

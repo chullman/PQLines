@@ -1,0 +1,1191 @@
+﻿{
+   "Description":"Conductor Info",
+   "Conductors":[
+      {
+         "ID":"AAAC/1120",
+         "Names":[
+            {
+               "ID":"Neon",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"19 aluminium strands of 3.75mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"47.8kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"30mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.577kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"There are no steel strands in this conductor type"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"18.8mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Nitrogen",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"37 aluminium strands of 3mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"62.2kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"34.5mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.72kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"There are no steel strands in this conductor type"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"21mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Oxygen",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"19 aluminium strands of 4.75mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"73.6kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"40mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.925kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"There are no steel strands in this conductor type"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"23.8mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Phosphorus",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"37 aluminium strands of 3.75mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"93.1kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"40mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"1.13kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"There are no steel strands in this conductor type"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"26.3mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Sulphur",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"61 aluminium strands of 3.75mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"145kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"47.5mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"1.86kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"There are no steel strands in this conductor type"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"33.8mm total diameter"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"AAAC/6201",
+         "Names":[
+            {
+               "ID":"Opal",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"19 aluminium strands of 3.25mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"44.2kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"28.5mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.433kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"There are no steel strands in this conductor type"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"16.3mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Pearl",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"19 aluminium strands of 3.75mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"58.8kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"30mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.576kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"There are no steel strands in this conductor type"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"18.8mm total diameter"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"AAAC+SC/AC",
+         "Names":[
+            {
+               "ID":"OPGW BICC12",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"11 aluminium strands of 3.01mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"52.2kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"No die applicable"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.454kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"6 steel strands of 2.63mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"13.91mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"OPGW BICC24",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"11 aluminium strands of 3.01mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"45.7kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"No die applicable"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.433kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"5 steel strands of 2.63mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"13.91mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"OPGW SUMI24",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"10 aluminium strands of 3.4mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"58.7kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"No die applicable"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.471kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 2.35mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"14.6mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"OPGW Pirelli24",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"7 aluminium strands of 3.1mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"53.2kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"No die applicable"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.45kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"4 steel strands of 3.1mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"14.5mm total diameter"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"AAC",
+         "Names":[
+            {
+               "ID":"Uranus",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"61 aluminium strands of 3.25mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"75.2kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"44.5mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"1.4kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"There are no steel strands in this conductor type"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"29.3mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Venus",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"61 aluminium strands of 3.75mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"98.3kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"47.5mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"1.86kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"There are no steel strands in this conductor type"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"33.8mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Virgo",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"91 aluminium strands of 4.5mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"207kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"70mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"4.01kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"There are no steel strands in this conductor type"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"49.5mm total diameter"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"AACSR/GZ 1120",
+         "Names":[
+            {
+               "ID":"Grape",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"30 aluminium strands of 2.5mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"74.4kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"16mm steel die size 28.5mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.676kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 2.5mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"17.5mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Mango",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"54 aluminium strands of 3mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"149kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"17mm steel die size 40mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"1.44kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 3mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"27mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Paw Paw",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"54 aluminium strands of 3.75mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"224kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"20mm steel die size 47.5mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"2.24kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"19 steel strands of 2.25mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"33.8mm total diameter"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"ACSR/AC",
+         "Names":[
+            {
+               "ID":"Diving",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"30 aluminium strands of 3.5mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"121kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"19mm steel die size 40mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"1.24kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 3.5mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"24.5mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Tennis",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"4 aluminium strands of 3.75mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"42.8kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"19mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.339kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"3 steel strands of 3.75mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"11.3mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Volleyball",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"8 aluminium strands of 3.6mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"44.2kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"12mm steel die size 21.5mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.369kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 2mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"13.2mm total diameter"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"ACSR/GZ",
+         "Names":[
+            {
+               "ID":"Grape",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"30 aluminium strands of 2.5mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"63.7kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"16mm steel die size 28.5mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.675kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 2.5mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"17.5mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Lemon",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"30 aluminium strands of 3mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"90.1kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"17mm steel die size 34.5mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.973kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 3mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"21mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Lime",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"30 aluminium strands of 3.5mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"121kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"19mm steel die size 40mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"1.32kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 3.5mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"24.5mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Mango",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"54 aluminium strands of 3mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"118kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"17mm steel die size 40mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"1.44kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 3mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"27mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Orange",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"54 aluminium strands of 3.25mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"137kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"19mm steel die size 44.5mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"1.69kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 3.25mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"29.3mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Paw Paw",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"54 aluminium strands of 3.75mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"179kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"20mm steel die size 47.5mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"2.25kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"19 steel strands of 2.25mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"33.8mm total diameter"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"ACSR/I",
+         "Names":[
+            {
+               "ID":"Bear",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"30 aluminium strands of 3.35mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"111.08kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"19mm steel die size 40mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"1.218kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 3.35mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"23.47mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Camel",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"54 aluminium strands of 3.35mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"144.8kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"19mm steel die size 44.2mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"1.804kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 3.35mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"30.18mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Dog",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"6 aluminium strands of 4.72mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"32.47kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"9.5mm steel die size 22mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.394kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 1.57mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"14.17mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Goat",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"30 aluminium strands of 3.71mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"135.14kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"19mm steel die size 40mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"1.491kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 3.71mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"25.96mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Martin",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"54 aluminium strands of 4.02mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"203.3kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"20.5mm steel die size 50mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"2.580kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"19 steel strands of 2.41mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"36.17mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Panther",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"30 aluminium strands of 3mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"89.23kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"17mm steel die size 34.5mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.973kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 3mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"20.98mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Tiger",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"30 aluminium strands of 2.36mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"56.58kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"14.2mm steel die size 28.5mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.605kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 2.36mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"16.54mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Wolf",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"30 aluminium strands of 2.59mm diameter"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"67.48kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"16mm steel die size 34.5mm aluminium die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.727kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 2.59mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"18.14mm total diameter"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"SC/AC",
+         "Names":[
+            {
+               "ID":"7/3.25",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"There are no aluminium strands in this conductor"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"69.8kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"17mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.387kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 3.25mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"9.75mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"7/3.75",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"There are no aluminium strands in this conductor"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"88.3kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"19mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.515kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"7 steel strands of 3.75mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"11.3mm total diameter"
+                  }
+               ]
+            },
+            {
+               "ID":"Alumoweld",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"There are no aluminium strands in this conductor"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"120.95kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"There is no die for this conductor"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.667kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"19 steel strands of 2.59mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"12.94mm total diameter"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"SC/GZ",
+         "Names":[
+            {
+               "ID":"19/2.00",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"There are no aluminium strands in this conductor"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"74.4kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"19mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.483kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"19 steel strands of 2mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"10mm total diameter"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"SC/GZ/I",
+         "Names":[
+            {
+               "ID":"19/2.03",
+               "Measurements":[
+                  {
+                     "ID":"Aluminium Strands",
+                     "Data":"There are no aluminium strands in this conductor"
+                  },
+                  {
+                     "ID":"Breaking Load",
+                     "Data":"76.96kN breaking load"
+                  },
+                  {
+                     "ID":"Die Size",
+                     "Data":"19mm die size"
+                  },
+                  {
+                     "ID":"Mass",
+                     "Data":"0.495kg/m mass"
+                  },
+                  {
+                     "ID":"Steel Strands",
+                     "Data":"19 steel strands of 2.03mm diameter"
+                  },
+                  {
+                     "ID":"Total Diameter",
+                     "Data":"10.16mm total diameter"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

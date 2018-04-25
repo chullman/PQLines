@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<views:ThemedContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+                         xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                         xmlns:views="clr-namespace:PQLines.Views;assembly=PQLines"
+                         x:Class="PQLines.Views.PlantAndVehicleApprDist.ApprTypes.ObserverStates.ObserverStatesPage"
+                         Title="{Binding Title}">
+
+    <views:ThemedContentPage.Content>
+
+
+        <StackLayout VerticalOptions="{StaticResource StackLayoutVertOptions}"
+                     HorizontalOptions="{StaticResource StackLayoutHorzOptions}">
+
+            <Grid BackgroundColor="{StaticResource TitleRootGridBackgroundColor}"
+                  VerticalOptions="{StaticResource TitleRootGridVertOptions}">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="{StaticResource TitleRootGridRowDefHeight}" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="{StaticResource TitleRootGridColumnDefWidth}" />
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0" Grid.Row="0" VerticalOptions="{StaticResource TitleChildGridVertOptions}"
+                      HorizontalOptions="{StaticResource TitleChildGridHorzOptions}"
+                      WidthRequest="{StaticResource TitleChildGridWidthRequest}">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="{StaticResource TitleChildGridRowDefHeight}" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="{StaticResource TitleChildGridLogoColumnDefWidth}" />
+                        <ColumnDefinition Width="{StaticResource TitleChildGridTextColumnDefWidth}" />
+                    </Grid.ColumnDefinitions>
+
+
+                    <views:ThemedFontLabel TextColor="{StaticResource TitleChildGridTextColor}"
+                                           Text="{StaticResource TitleChildGridText}"
+                                           HeightRequest="{StaticResource TitleChildGridTextHeightRequest}"
+                                           FontSize="{StaticResource TitleChildGridTextFontSize}"
+                                           FontAttributes="{StaticResource TitleChildGridTextFontAttributes}"
+                                           XAlign="{StaticResource TitleChildGridTextXAlign}"
+                                           YAlign="{StaticResource TitleChildGridTextYAlign}"
+                                           Grid.Column="1"
+                                           Grid.Row="0"
+                                           FontFamily="{StaticResource TitleChildGridTextFontPerDevice}" />
+
+                </Grid>
+
+
+            </Grid>
+
+
+            <Grid BackgroundColor="{StaticResource TitleRootGridBackgroundColor}"
+                  VerticalOptions="{StaticResource TitleRootGridVertOptions}" HeightRequest="50">
+
+                <Label TextColor="#003eb3" Text="{Binding QuestionText}"
+                       FontSize="18" FontAttributes="Bold"
+                       XAlign="Center" YAlign="Center" />
+
+            </Grid>
+
+            <!-- Search functionality may be included in a later revision -->
+            <!--<SearchBar WidthRequest="{StaticResource SearchBarWidthRequest}" Placeholder="{StaticResource SearchBarTextPlaceholder}" HorizontalOptions="{StaticResource SearchBarHorzOptions}" />-->
+
+            <ScrollView VerticalOptions="{StaticResource ScrollViewVertOptions}" x:Name="XamlBindedScrollView">
+
+                <!-- Refer to the code-behind for the dynamically generated grid of buttons to be included inside this ScrollView -->
+
+            </ScrollView>
+
+        </StackLayout>
+
+
+    </views:ThemedContentPage.Content>
+
+</views:ThemedContentPage>

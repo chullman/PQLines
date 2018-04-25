@@ -1,0 +1,253 @@
+﻿{
+   "Description":"Plant & Vehicle Appr. Dist.",
+   "ApprPhaseVoltages":[
+      {
+         "ID":"1kV",
+         "ApprTypes":[
+            {
+               "ID":"Plant",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"1000mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"3000mm minimum approach distance"
+                  }
+               ]
+            },
+            {
+               "ID":"Vehicle",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"600mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"600mm minimum approach distance"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"33kV",
+         "ApprTypes":[
+            {
+               "ID":"Plant",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"1200mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"3000mm minimum approach distance"
+                  }
+               ]
+            },
+            {
+               "ID":"Vehicle",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"700mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"900mm minimum approach distance"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"66kV",
+         "ApprTypes":[
+            {
+               "ID":"Plant",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"1400mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"3000mm minimum approach distance"
+                  }
+               ]
+            },
+            {
+               "ID":"Vehicle",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"1400mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"2100mm minimum approach distance"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"110kV",
+         "ApprTypes":[
+            {
+               "ID":"Plant",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"1800mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"3000mm minimum approach distance"
+                  }
+               ]
+            },
+            {
+               "ID":"Vehicle",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"1400mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"2100mm minimum approach distance"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"132kV",
+         "ApprTypes":[
+            {
+               "ID":"Plant",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"1800mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"3000mm minimum approach distance"
+                  }
+               ]
+            },
+            {
+               "ID":"Vehicle",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"1400mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"2100mm minimum approach distance"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"275kV",
+         "ApprTypes":[
+            {
+               "ID":"Plant",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"3000mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"6000mm minimum approach distance"
+                  }
+               ]
+            },
+            {
+               "ID":"Vehicle",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"2300mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"2900mm minimum approach distance"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"330kV",
+         "ApprTypes":[
+            {
+               "ID":"Plant",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"3700mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"6000mm minimum approach distance"
+                  }
+               ]
+            },
+            {
+               "ID":"Vehicle",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"3000mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"3400mm minimum approach distance"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "ID":"Above 330kV",
+         "ApprTypes":[
+            {
+               "ID":"Plant",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"4600mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"8000mm minimum approach distance"
+                  }
+               ]
+            },
+            {
+               "ID":"Vehicle",
+               "ObserverStates":[
+                  {
+                     "ID":"Yes",
+                     "Data":"3900mm minimum approach distance"
+                  },
+                  {
+                     "ID":"No",
+                     "Data":"4400mm minimum approach distance"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
